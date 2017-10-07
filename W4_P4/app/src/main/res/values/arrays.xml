@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="word0">
+        <item name="word">TANGERINE</item>
+        <item name="hint">FOOD</item>
+    </string-array>
+    <string-array name="word1">
+        <item name="word">BADGER</item>
+        <item name="hint">ANIMAL</item>
+    </string-array>
+    <string-array name="word2">
+        <item name="word">BAGPIPES</item>
+        <item name="hint">INSTRUMENT</item>
+    </string-array>
+    <string-array name="word3">
+        <item name="word">PAJAMAS</item>
+        <item name="hint">CLOTHING</item>
+    </string-array>
+    <string-array name="word4">
+        <item name="word">YACHT</item>
+        <item name="hint">VEHICLE</item>
+    </string-array>
+    <string-array name="word5">
+        <item name="word">SUBWAY</item>
+        <item name="hint">VEHICLE</item>
+    </string-array>
+    <string-array name="word6">
+        <item name="word">CROQUET</item>
+        <item name="hint">SPORT</item>
+    </string-array>
+    <string-array name="word7">
+        <item name="word">EGYPT</item>
+        <item name="hint">COUNTRY</item>
+    </string-array>
+    <string-array name="word8">
+        <item name="word">AZURE</item>
+        <item name="hint">COLOR</item>
+    </string-array>
+    <string-array name="word9">
+        <item name="word">YAHOO</item>
+        <item name="hint">COMPANY</item>
+    </string-array>
+    <string-array name="word10">
+        <item name="word">HANGMAN</item>
+        <item name="hint">GAME</item>
+    </string-array>
+    <string-array name="word11">
+        <item name="word">PALACE</item>
+        <item name="hint">BUILDING</item>
+    </string-array>
+    <string-array name="word12">
+        <item name="word">ARCHITECT</item>
+        <item name="hint">OCCUPATION</item>
+    </string-array>
+    <string-array name="word13">
+        <item name="word">GLASS</item>
+        <item name="hint">MATERIAL</item>
+    </string-array>
+    <string-array name="word14">
+        <item name="word">ORCA</item>
+        <item name="hint">ANIMAL</item>
+    </string-array>
+    <string-array name="word15">
+        <item name="word">AWKWARD</item>
+        <item name="hint">TRAIT</item>
+    </string-array>
+    <string-array name="word16">
+        <item name="word">FERVID</item>
+        <item name="hint">EMOTION</item>
+    </string-array>
+    <string-array name="word17">
+        <item name="word">IVORY</item>
+        <item name="hint">MATERIAL</item>
+    </string-array>
+    <string-array name="word18">
+        <item name="word">TWELFTH</item>
+        <item name="hint">NUMBER</item>
+    </string-array>
+    <string-array name="word19">
+        <item name="word">WRISTWATCH</item>
+        <item name="hint">APPAREL</item>
+    </string-array>
+    <string-array name="word20">
+        <item name="word">BLIZZARD</item>
+        <item name="hint">WEATHER</item>
+    </string-array>
+    <array name="hangman_words">
+        <item>@array/word0</item>
+        <item>@array/word1</item>
+        <item>@array/word2</item>
+        <item>@array/word3</item>
+        <item>@array/word4</item>
+        <item>@array/word5</item>
+        <item>@array/word6</item>
+        <item>@array/word7</item>
+        <item>@array/word8</item>
+        <item>@array/word9</item>
+        <item>@array/word10</item>
+        <item>@array/word11</item>
+        <item>@array/word12</item>
+        <item>@array/word13</item>
+        <item>@array/word14</item>
+        <item>@array/word15</item>
+        <item>@array/word16</item>
+        <item>@array/word17</item>
+        <item>@array/word18</item>
+        <item>@array/word19</item>
+        <item>@array/word20</item>
+    </array>
+</resources>
